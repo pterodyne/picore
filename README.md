@@ -25,5 +25,7 @@ Parts:
 10. Micro USB Solder connectors - https://a.co/d/3a1dL1D  for the keyboard
 11. Random hookup wire for USB leads, power leads etc.
 12. HDMI Cables.  Still working this out, trying ribbon cables.  It remains to be seen if 1920x1280 will work on a ribbon cable.  Plan B is to strip the plastic off the connectors to make them as small as possible.  Mini HDMI to Micro required for monitor and Pi5.  Maybe a better monitor could be found, but I wanted the 1920x1280 resolution and I could only find that in HDMI.  DSI seemed to max out at 1280x800 and didn't work at the ribbon cable length needed.
+13. Invisible furniture hinges - https://a.co/d/3a1dL1D
+        These are not currently strong enough to hold up the screen/lid. Im working on the idea of drilling out the small rivot and            putting a 1mm bolt/nut combination so it can be tightened to a suitable tension.
 
-Please use this information at your own risk. Personally I have "let the smoke out of many parts working on cyberdecks and projects like this. No warranty expressed or implied!
+Please use this information at your own risk. Personally I have "let the smoke out of many parts working on cyberdecks and projects like this. No warranty expressed or implied.
