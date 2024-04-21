@@ -28,4 +28,4 @@ Parts:
 13. Invisible furniture hinges - https://a.co/d/3a1dL1D
         These are not currently strong enough to hold up the screen/lid. Im working on the idea of drilling out the small rivot and            putting a 1mm bolt/nut combination so it can be tightened to a suitable tension.
 
-Please use this information at your own risk. Personally I have "let the smoke out of many parts working on cyberdecks and projects like this. No warranty expressed or implied.
+Please use this information at your own risk. Personally I have "let the smoke out" of many parts working on cyberdecks and projects like this. No warranty expressed or implied.
