@@ -18,3 +18,4 @@ Parts:
 8. 10.5 1920x1280 LCD Monitor - https://a.co/d/gWEaZZS
         this monitor I needed to un-case to make it thinner and I broke it as it is extremely fragile. So Im using the board, and ordered just the panel which is:
         NV105WAM-N31 10.5” 1920X1280 - Same screen as a Surface Go 3 but without the touchscreen.
+9. USB C 2.0 Solder connectors - https://www.amazon.com/dp/B091CRLJM2?ref_=cm_sw_r_cp_ud_dp_2WHZ4DZWF5TPE4Q6B9QM
