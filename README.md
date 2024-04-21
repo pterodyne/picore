@@ -9,7 +9,7 @@ Parts:
 
 
 1. Pi5 8GB, and Pi5 official cooler
-2. Waveshare UPS - https://www.waveshare.com/ups-hat.htm
+2. Waveshare UPS - https://www.waveshare.com/product/ups-hat-d.htm
 3. USB 2.0 Hub board - https://a.co/d/d6xFPpz
 4. USB C PD Trigger Board - https://a.co/d/i6ZYw3r
 5. 2x5000mAh Lipo (remove protection boards) - https://a.co/d/iKhJBcd
