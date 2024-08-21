@@ -2,11 +2,13 @@
 a repository for my Pi5 laptop. 
 This repository is just a holding place for design files at the moment.  
 
+UPDATE 08-21-2024.
+
+With the availablility of several Rockchip 3588 based CM4 form-factor boards, Ive decided to retool this project around a CM4-nano carrier board. Working on redesigning the chassis.  Ive also decided to use Decktility's (https://github.com/ByteWelder/Decktility/), power management which emulates a ltc294x chip for providing the system with battery/charging information using an arduino.  Very good work.  Mainly Ive been working on porting the code/drivers to work with Rockchip.  This is above my skill level but in theory it should be possible.  If you have any skill in this area and want to help, go ahead and reach out to me with an issue.
+
 I DO NOT RECOMMEND USING IT AT THIS TIME!!! I made a lot of specific design choices that I don't care to explain right now, and the FreeCAD files are a bit of a mess. (and Im a novice for sure with freeCAD). And to add to that it's not complete. There is no top palmrest, any mounting points for the screen, nor a front bezel. Also the mounting points for the trackball interfere with installing the PI5. The PI exit ports for USB2, USB3 and ethernet do not quite line up right. All and all, you've been warned :) 
 
 Parts:
-
-
 
 1. Pi5 8GB, and Pi5 official cooler
 2. Waveshare UPS - https://www.waveshare.com/product/ups-hat-d.htm
